@@ -2,6 +2,11 @@
 
 ![descarga](https://user-images.githubusercontent.com/121838282/220335134-a1cac72f-60e8-4c07-adc8-0dcc0a206abf.jpg)
 
+**Instalación**
+
+Extraiga el archivo .rar y obtendrá la carpeta Magic Wand Rewrite (Invocaciones) + Hechizos. Coloque esa carpeta extraída en la sección Addons en C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons o póngala en su servidor.
+
+**Introducción**
 
 ¡Ahora puedes invocar NPCS como el zombie!
 
